@@ -19,7 +19,7 @@ KERS staat voor Kinetic Energy Recovery System. Vrij vertaald: **terugwinnen** v
 Bij de originele werking van de step, remt de step direct af zodra je gas terug draait. Dit word gedaan met de motorrem, waardoor er weer energie terug de accu in loopt. Feitelijk draait de motor dan als dynamo. De KERS waarde kan je het beste op gemiddeld laten staan.
 
 ###COAST
-In de werking van onze step willen we niet dat bij het loslaten van het gas de motorrem aan gaat, maar alleen bij het bedienen van de rem. Dus feitelijk wil je de step zonder tegenwerking van de motor laten uitrollen nadat de motorondersteuning uit staat. Dit heeft in sommige tools COAST en is sommige heet dit Disable KERS. 
+In de werking van onze step willen we niet dat bij het loslaten van het gas de motorrem aan gaat, maar alleen bij het bedienen van de rem. Dus feitelijk wil je de step zonder tegenwerking van de motor laten uitrollen nadat de motorondersteuning uit staat. Dit heet in sommige tools COAST en in scooterhacking utility heet dit Disable KERS. 
 Resultaat: Je remt alleen op de motor af zodra je remt.
 
 > Binnen sommige software kan je instellen dat KERS alleen werkt boven een bepaalde snelheid, bijvoorbeeld boven de 25. Je step gaat dan remmen zodra je te snel gaat, bijvoorbeeld bij bergaf steppen.
