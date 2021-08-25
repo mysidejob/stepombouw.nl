@@ -24,3 +24,4 @@ Daarnaast zijn er nog algemene regels, zo moeten reflectoren aan de zijkant oran
 ##Wat moet er gedaan worden?
 De eerste stap is het inbouwen van een kleine microcontroller als vervanging voor de gashendel. De microcontroller dient van geschikte software te zijn voorzien.
 De tweede stap is ervoor zorgen dat het motorvermogen overeenkomt met de regelgeving, hetzelfde geld voor alle andere zaken zoals een bel, verlichting en reminrichting.
+Ook is het wenselijk om zaken zoals motorrem enkel te activeren bij rem, dus niet bij gas los, zie uitleg onder het hoofdstuk software.

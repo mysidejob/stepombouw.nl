@@ -8,4 +8,8 @@ taxonomy:
 ##Hoofdstuk 3.
 
 # Software
-In dit hoofdstuk gaan we verder in op de hoe en wat van software. Hoe werkt het, hoe installeer je het en wat zijn vaak voorkomende issues.
+De microcontroller moet nu van software worden voorzien en er moeten wat kleine aanpassingen aan de steps eigen software gedaan worden. Dit hoofdstuk gaat over:
+* Microcontroller programmeren met de Arduino IDE
+* Verkrijgen van broncode voor de Arduino via bijv. Github
+* Wat is KERS en COAST
+* Aanpassen KERS en COAST in de steps eigen software
