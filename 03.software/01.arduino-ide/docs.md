@@ -57,7 +57,7 @@ Arduino wil er wat extra's mee doen. Bevestig dit.
 
 ![arduino-load-ino-2.png ]( arduino-load-ino-2.png " arduino-load-ino-2.png ")
 
-Druk op compile
+Druk op compile/Upload. Dit is het tweede icon van links.
 
 ![arduino-compile-and-upload.png ]( arduino-compile-and-upload.png " arduino-compile-and-upload.png ")
 Daarna krijg je waarschijnlijk je eerste foutmelding. 
