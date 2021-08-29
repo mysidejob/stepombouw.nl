@@ -1,15 +1,11 @@
 ---
-title: 'Demonteren stuur'
+title: 'Demonteer display glas'
 taxonomy:
     category:
         - docs
 ---
 
-##Remkabel los maken
-Knijp de rem in en trek de remkabel weg van de hendel. Nu laat je tegelijkertijd de rem langzaam los en maak je de kabel los uit de hendel.
-##Schroeven verwijderen
-Verwijder de 4 of 6 inbus schroeven boven aan de buis, net onder het stuur. En schuif het stuur omhoog uit de buis.
-##E-bike stekker los maken
-Schuif de e-bike stekkers uit elkaar. Mocht dit niet lukken dan kan je de stekkers met een föhn verwarmen en nogmaals proberen.
+De cover van de display is relatief eenvoudig te verwijderen door bijvoorbeeld een oude creditcard tussen het stuur en de plastic cover van het scherm te plaatsen. Mocht de lijm te sterk zijn, helpt het om de cover eerst te verwarmen met een föhn, waardoor de lijm wat week wordt. Dit is overigens ook een goede tip om de cover weer goed vast te krijgen bij het terugplaatsen, even verwarmen en de cover zou weer goed vast moeten zitten.
 
-Het stuur is nu spanningsloos en klaar voor verdere demontage.
+Let op, alleen de cover boven het display dient te worden losgehaald. Het kleinere kapje meer richting de voorlamp is een los onderdeel en kan voor deze modificatie blijven zitten. 
+
