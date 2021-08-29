@@ -8,7 +8,7 @@ taxonomy:
 Wij hebben een lijstje samengesteld met producten die je nodig hebt.
 Door gebruik te maken van de links ondersteun je ook nog eens deze site ;)
 ###Onderdelen
-* 1x [Arduino Nano ](https://amzn.to/3kqGcoB)
+* 1x [Arduino Nano](https://amzn.to/3kqGcoB)
 * 1x [Condensator 0.47uF](https://amzn.to/3zjIlca)
 * 1x [Weerstand 1K](https://amzn.to/3gxUWkJ) 
 * 1x [JST-ZH 1.5mm mannetjes stekker](https://amzn.to/3De3fvL)
@@ -19,7 +19,7 @@ Door gebruik te maken van de links ondersteun je ook nog eens deze site ;)
 
 ###Gereedschap
 * Kleine kruiskop schroevendraaier
-* Imbus sleutel set (voor verwijderen stuur en gashendel)
+* Inbus sleutel set (voor het verwijderen van het stuur en de gashendel)
 * Soldeerbout
 * Soldeertin
 * Hetelucht station of aansteker
