@@ -14,7 +14,7 @@ Voor het ombouwen van de e-step heb je nodig:
 * Een setje e-bike kabels of stekkers
 * Krimpkous
 
-Er zijn ook **step ombouw kitjes** te koop, hierin is de hardware al gemaakt en hoef je er enkel de gewenste software in te laden en het printje in te bouwen met behulp van stekker verbindingen. Voor meer info word lid van de [StepOmbouw](https://t.me/joinchat/igEICvLAQhM5OGVk) Telegram groep. Onthoudt: [Don't ask to ask](https://dontasktoask.com/)!
+Er zijn ook **step ombouw kitjes** te koop, hierin is de hardware al gemaakt en hoef je er enkel de gewenste software in te laden en het printje in te bouwen met behulp van stekker verbindingen. Voor meer info word lid van de [StepOmbouw](https://t.me/joinchat/igEICvLAQhM5OGVk) Telegram groep. **Onthoudt: [Don't ask to ask](https://dontasktoask.com/)!**
 
 ##Gereedschap
 Naast een overzichtelijke werkplek heb je standaard gereedschap nodig zoals een kleine kruiskop schroevendraaier, een kniptangetje en soldeer apparatuur.
